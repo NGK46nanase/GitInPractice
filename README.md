@@ -1,0 +1,1 @@
+Manning Git in Practice
